@@ -1,2 +1,4 @@
 heeeeeeeeeeello
+<<<<<<< HEAD
 tercera linea
+=======
